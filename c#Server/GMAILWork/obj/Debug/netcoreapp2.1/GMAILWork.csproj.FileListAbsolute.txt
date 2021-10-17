@@ -1,0 +1,46 @@
+D:\projectApiOshra\GMAILWork\bin\Debug\netcoreapp2.1\GMAILWork.deps.json
+D:\projectApiOshra\GMAILWork\bin\Debug\netcoreapp2.1\GMAILWork.runtimeconfig.json
+D:\projectApiOshra\GMAILWork\bin\Debug\netcoreapp2.1\GMAILWork.runtimeconfig.dev.json
+D:\projectApiOshra\GMAILWork\bin\Debug\netcoreapp2.1\GMAILWork.dll
+D:\projectApiOshra\GMAILWork\obj\Debug\netcoreapp2.1\GMAILWork.csprojAssemblyReference.cache
+D:\projectApiOshra\GMAILWork\obj\Debug\netcoreapp2.1\GMAILWork.csproj.CoreCompileInputs.cache
+D:\projectApiOshra\GMAILWork\obj\Debug\netcoreapp2.1\GMAILWork.AssemblyInfoInputs.cache
+D:\projectApiOshra\GMAILWork\obj\Debug\netcoreapp2.1\GMAILWork.AssemblyInfo.cs
+D:\projectApiOshra\GMAILWork\bin\Debug\netcoreapp2.1\GMAILWork.pdb
+D:\projectApiOshra\GMAILWork\bin\Debug\netcoreapp2.1\Common1.dll
+D:\projectApiOshra\GMAILWork\bin\Debug\netcoreapp2.1\Repository.dll
+D:\projectApiOshra\GMAILWork\bin\Debug\netcoreapp2.1\Services.dll
+D:\projectApiOshra\GMAILWork\bin\Debug\netcoreapp2.1\Servieces_Fw.dll
+D:\projectApiOshra\GMAILWork\bin\Debug\netcoreapp2.1\OpenNLP.dll
+D:\projectApiOshra\GMAILWork\bin\Debug\netcoreapp2.1\SharpEntropy.dll
+D:\projectApiOshra\GMAILWork\bin\Debug\netcoreapp2.1\Services.pdb
+D:\projectApiOshra\GMAILWork\bin\Debug\netcoreapp2.1\Common1.pdb
+D:\projectApiOshra\GMAILWork\bin\Debug\netcoreapp2.1\Repository.pdb
+D:\projectApiOshra\GMAILWork\bin\Debug\netcoreapp2.1\Servieces_Fw.pdb
+D:\projectApiOshra\GMAILWork\bin\Debug\netcoreapp2.1\Servieces_Fw.dll.config
+D:\projectApiOshra\GMAILWork\obj\Debug\netcoreapp2.1\GMAILWork.csproj.CopyComplete
+D:\projectApiOshra\GMAILWork\obj\Debug\netcoreapp2.1\GMAILWork.dll
+D:\projectApiOshra\GMAILWork\obj\Debug\netcoreapp2.1\GMAILWork.pdb
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\GMAILWork\bin\Debug\netcoreapp2.1\GMAILWork.deps.json
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\GMAILWork\bin\Debug\netcoreapp2.1\GMAILWork.runtimeconfig.json
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\GMAILWork\bin\Debug\netcoreapp2.1\GMAILWork.runtimeconfig.dev.json
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\GMAILWork\bin\Debug\netcoreapp2.1\GMAILWork.dll
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\GMAILWork\bin\Debug\netcoreapp2.1\GMAILWork.pdb
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\GMAILWork\bin\Debug\netcoreapp2.1\Common1.dll
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\GMAILWork\bin\Debug\netcoreapp2.1\Repository.dll
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\GMAILWork\bin\Debug\netcoreapp2.1\Services.dll
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\GMAILWork\bin\Debug\netcoreapp2.1\Servieces_Fw.dll
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\GMAILWork\bin\Debug\netcoreapp2.1\OpenNLP.dll
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\GMAILWork\bin\Debug\netcoreapp2.1\SharpEntropy.dll
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\GMAILWork\bin\Debug\netcoreapp2.1\Services.pdb
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\GMAILWork\bin\Debug\netcoreapp2.1\Common1.pdb
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\GMAILWork\bin\Debug\netcoreapp2.1\Repository.pdb
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\GMAILWork\bin\Debug\netcoreapp2.1\Servieces_Fw.pdb
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\GMAILWork\bin\Debug\netcoreapp2.1\Servieces_Fw.dll.config
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\GMAILWork\obj\Debug\netcoreapp2.1\GMAILWork.csprojAssemblyReference.cache
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\GMAILWork\obj\Debug\netcoreapp2.1\GMAILWork.csproj.CoreCompileInputs.cache
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\GMAILWork\obj\Debug\netcoreapp2.1\GMAILWork.AssemblyInfoInputs.cache
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\GMAILWork\obj\Debug\netcoreapp2.1\GMAILWork.AssemblyInfo.cs
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\GMAILWork\obj\Debug\netcoreapp2.1\GMAILWork.csproj.CopyComplete
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\GMAILWork\obj\Debug\netcoreapp2.1\GMAILWork.dll
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\GMAILWork\obj\Debug\netcoreapp2.1\GMAILWork.pdb

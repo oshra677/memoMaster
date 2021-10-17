@@ -1,0 +1,57 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Classes\WordToSubjectsRepository.cs" />
+    <Compile Remove="Models\MyAddition.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Interfaces\wte5ikkn.mqa~" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="obj\Debug\netcoreapp2.1\Repository.AssemblyInfo.cs" />
+    <Compile Include="obj\Debug\netcoreapp2.1\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+    <Compile Include="obj\Debug\netcoreapp2.1\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+    <Compile Include="obj\Debug\netcoreapp2.1\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="bin\Debug\netcoreapp2.1\Repository.deps.json" />
+    <Content Include="bin\Debug\netcoreapp2.1\Repository.runtimeconfig.dev.json" />
+    <Content Include="bin\Debug\netcoreapp2.1\Repository.runtimeconfig.json" />
+    <Content Include="obj\Debug\netcoreapp2.1\Repository.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\project.assets.json" />
+    <Content Include="obj\Repository.csproj.nuget.dgspec.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Debug\netcoreapp2.1\Repository.dll" />
+    <None Include="bin\Debug\netcoreapp2.1\Repository.pdb" />
+    <None Include="obj\Debug\netcoreapp2.1\Repository.AssemblyInfoInputs.cache" />
+    <None Include="obj\Debug\netcoreapp2.1\Repository.assets.cache" />
+    <None Include="obj\Debug\netcoreapp2.1\Repository.csproj.CoreCompileInputs.cache" />
+    <None Include="obj\Debug\netcoreapp2.1\Repository.csprojAssemblyReference.cache" />
+    <None Include="obj\Debug\netcoreapp2.1\Repository.dll" />
+    <None Include="obj\Debug\netcoreapp2.1\Repository.pdb" />
+    <None Include="obj\Repository.csproj.nuget.cache" />
+    <None Include="obj\Repository.csproj.nuget.g.props" />
+    <None Include="obj\Repository.csproj.nuget.g.targets" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="2.1.14" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="2.1.14" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="2.1.14" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="2.1.14">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="2.1.1" />
+  </ItemGroup>
+
+</Project>

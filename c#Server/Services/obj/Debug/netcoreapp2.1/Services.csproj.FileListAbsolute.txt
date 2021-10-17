@@ -1,0 +1,283 @@
+M:\web api\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Services.deps.json
+M:\web api\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Services.dll
+M:\web api\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Services.pdb
+M:\web api\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.csprojAssemblyReference.cache
+M:\web api\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.csproj.CoreCompileInputs.cache
+M:\web api\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfoInputs.cache
+M:\web api\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfo.cs
+M:\web api\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.dll
+M:\web api\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.pdb
+M:\web api\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Repository.dll
+M:\web api\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Shared.dll
+M:\web api\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Repository.pdb
+M:\web api\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Shared.pdb
+M:\web api\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.csproj.CopyComplete
+I:\Tichnut\students\322639899\web api\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.csprojAssemblyReference.cache
+I:\Tichnut\students\322639899\web api\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.csproj.CoreCompileInputs.cache
+I:\Tichnut\students\322639899\web api\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfoInputs.cache
+I:\Tichnut\students\322639899\web api\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfo.cs
+I:\Tichnut\students\322639899\web api\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.dll
+I:\Tichnut\students\322639899\web api\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.pdb
+I:\Tichnut\students\322639899\web api\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Services.deps.json
+I:\Tichnut\students\322639899\web api\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Services.dll
+I:\Tichnut\students\322639899\web api\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Services.pdb
+I:\Tichnut\students\322639899\web api\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Repository.dll
+I:\Tichnut\students\322639899\web api\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Shared.dll
+I:\Tichnut\students\322639899\web api\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Repository.pdb
+I:\Tichnut\students\322639899\web api\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Shared.pdb
+I:\Tichnut\students\322639899\web api\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.csproj.CopyComplete
+I:\Tichnut\students\322639899\project_layers\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.csprojAssemblyReference.cache
+I:\Tichnut\students\322639899\project_layers\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.csproj.CoreCompileInputs.cache
+I:\Tichnut\students\322639899\project_layers\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfoInputs.cache
+I:\Tichnut\students\322639899\project_layers\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfo.cs
+I:\Tichnut\students\322639899\project_layers\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.dll
+I:\Tichnut\students\322639899\project_layers\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.pdb
+I:\Tichnut\students\322639899\project_layers\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Services.deps.json
+I:\Tichnut\students\322639899\project_layers\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Services.dll
+I:\Tichnut\students\322639899\project_layers\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Services.pdb
+I:\Tichnut\students\322639899\project_layers\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.csproj.CopyComplete
+I:\Tichnut\students\322639899\project_layers\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+I:\Tichnut\students\322639899\project_layers\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+F:\יד\project_layers\project_layers\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfoInputs.cache
+F:\יד\project_layers\project_layers\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfo.cs
+F:\יד\project_layers\project_layers\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.csprojAssemblyReference.cache
+F:\יד\project_layers\project_layers\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Services.deps.json
+F:\יד\project_layers\project_layers\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Services.dll
+F:\יד\project_layers\project_layers\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Services.pdb
+F:\יד\project_layers\project_layers\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\יד\project_layers\project_layers\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+F:\יד\project_layers\project_layers\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.csproj.CopyComplete
+F:\יד\project_layers\project_layers\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.dll
+F:\יד\project_layers\project_layers\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.pdb
+I:\Tichnut\students\322639899\12_02_Project\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Services.deps.json
+I:\Tichnut\students\322639899\12_02_Project\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Services.dll
+I:\Tichnut\students\322639899\12_02_Project\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Services.pdb
+I:\Tichnut\students\322639899\12_02_Project\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+I:\Tichnut\students\322639899\12_02_Project\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.csprojAssemblyReference.cache
+I:\Tichnut\students\322639899\12_02_Project\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.csproj.CoreCompileInputs.cache
+I:\Tichnut\students\322639899\12_02_Project\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfoInputs.cache
+I:\Tichnut\students\322639899\12_02_Project\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfo.cs
+I:\Tichnut\students\322639899\12_02_Project\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.csproj.CopyComplete
+I:\Tichnut\students\322639899\12_02_Project\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.dll
+I:\Tichnut\students\322639899\12_02_Project\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.pdb
+I:\Tichnut\students\322639899\12_02_Project\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Servieces_Fw.exe
+I:\Tichnut\students\322639899\12_02_Project\projectApiOshra\Services\bin\Debug\netcoreapp2.1\OpenNLP.dll
+I:\Tichnut\students\322639899\12_02_Project\projectApiOshra\Services\bin\Debug\netcoreapp2.1\SharpEntropy.dll
+I:\Tichnut\students\322639899\12_02_Project\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Servieces_Fw.pdb
+I:\Tichnut\students\322639899\12_02_Project\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Servieces_Fw.exe.config
+M:\12_02_Project\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.csprojAssemblyReference.cache
+M:\12_02_Project\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.csproj.CoreCompileInputs.cache
+M:\12_02_Project\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfoInputs.cache
+M:\12_02_Project\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfo.cs
+M:\12_02_Project\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.dll
+M:\12_02_Project\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.pdb
+M:\12_02_Project\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Services.deps.json
+M:\12_02_Project\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Services.dll
+M:\12_02_Project\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Services.pdb
+M:\12_02_Project\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Servieces_Fw.exe
+M:\12_02_Project\projectApiOshra\Services\bin\Debug\netcoreapp2.1\OpenNLP.dll
+M:\12_02_Project\projectApiOshra\Services\bin\Debug\netcoreapp2.1\SharpEntropy.dll
+M:\12_02_Project\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Servieces_Fw.pdb
+M:\12_02_Project\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Servieces_Fw.exe.config
+M:\12_02_Project\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+M:\12_02_Project\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.csproj.CopyComplete
+K:\projectApiOshra\Services\bin\Debug\netcoreapp2.1\credentials.json
+K:\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Services.deps.json
+K:\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Services.dll
+K:\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Services.pdb
+K:\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Servieces_Fw.exe
+K:\projectApiOshra\Services\bin\Debug\netcoreapp2.1\OpenNLP.dll
+K:\projectApiOshra\Services\bin\Debug\netcoreapp2.1\SharpEntropy.dll
+K:\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Servieces_Fw.pdb
+K:\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Servieces_Fw.exe.config
+K:\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.csprojAssemblyReference.cache
+K:\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.csproj.CoreCompileInputs.cache
+K:\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfoInputs.cache
+K:\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfo.cs
+K:\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.csproj.CopyComplete
+K:\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.dll
+K:\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.pdb
+D:\יד\פרויקט אביגיל ואושרה\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.csprojAssemblyReference.cache
+D:\יד\פרויקט אביגיל ואושרה\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.csproj.CoreCompileInputs.cache
+D:\יד\פרויקט אביגיל ואושרה\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfoInputs.cache
+D:\יד\פרויקט אביגיל ואושרה\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfo.cs
+D:\יד\פרויקט אביגיל ואושרה\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.dll
+D:\יד\פרויקט אביגיל ואושרה\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.pdb
+D:\יד\פרויקט אביגיל ואושרה\projectApiOshra\Services\bin\Debug\netcoreapp2.1\credentials.json
+D:\יד\פרויקט אביגיל ואושרה\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Services.deps.json
+D:\יד\פרויקט אביגיל ואושרה\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Services.dll
+D:\יד\פרויקט אביגיל ואושרה\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Services.pdb
+D:\יד\פרויקט אביגיל ואושרה\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Common1.dll
+D:\יד\פרויקט אביגיל ואושרה\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Repository.dll
+D:\יד\פרויקט אביגיל ואושרה\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Servieces_Fw.exe
+D:\יד\פרויקט אביגיל ואושרה\projectApiOshra\Services\bin\Debug\netcoreapp2.1\OpenNLP.dll
+D:\יד\פרויקט אביגיל ואושרה\projectApiOshra\Services\bin\Debug\netcoreapp2.1\SharpEntropy.dll
+D:\יד\פרויקט אביגיל ואושרה\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Common1.pdb
+D:\יד\פרויקט אביגיל ואושרה\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Repository.pdb
+D:\יד\פרויקט אביגיל ואושרה\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Servieces_Fw.pdb
+D:\יד\פרויקט אביגיל ואושרה\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Servieces_Fw.exe.config
+D:\יד\פרויקט אביגיל ואושרה\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.csproj.CopyComplete
+D:\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Services.deps.json
+D:\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Services.dll
+D:\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Services.pdb
+D:\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Common1.dll
+D:\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Repository.dll
+D:\projectApiOshra\Services\bin\Debug\netcoreapp2.1\OpenNLP.dll
+D:\projectApiOshra\Services\bin\Debug\netcoreapp2.1\SharpEntropy.dll
+D:\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Common1.pdb
+D:\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Repository.pdb
+D:\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Servieces_Fw.pdb
+D:\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.csprojAssemblyReference.cache
+D:\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.csproj.CoreCompileInputs.cache
+D:\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfoInputs.cache
+D:\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfo.cs
+D:\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.csproj.CopyComplete
+D:\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.dll
+D:\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.pdb
+C:\Users\This_User\Desktop\projectApiOshra\Services\bin\Debug\netcoreapp2.1\credentials.json
+C:\Users\This_User\Desktop\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Services.deps.json
+C:\Users\This_User\Desktop\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Services.dll
+C:\Users\This_User\Desktop\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Services.pdb
+C:\Users\This_User\Desktop\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Common1.dll
+C:\Users\This_User\Desktop\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Repository.dll
+C:\Users\This_User\Desktop\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Servieces_Fw.exe
+C:\Users\This_User\Desktop\projectApiOshra\Services\bin\Debug\netcoreapp2.1\OpenNLP.dll
+C:\Users\This_User\Desktop\projectApiOshra\Services\bin\Debug\netcoreapp2.1\SharpEntropy.dll
+C:\Users\This_User\Desktop\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Common1.pdb
+C:\Users\This_User\Desktop\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Repository.pdb
+C:\Users\This_User\Desktop\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Servieces_Fw.pdb
+C:\Users\This_User\Desktop\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Servieces_Fw.exe.config
+C:\Users\This_User\Desktop\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.csprojAssemblyReference.cache
+C:\Users\This_User\Desktop\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.csproj.CoreCompileInputs.cache
+C:\Users\This_User\Desktop\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfoInputs.cache
+C:\Users\This_User\Desktop\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfo.cs
+C:\Users\This_User\Desktop\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.csproj.CopyComplete
+C:\Users\This_User\Desktop\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.dll
+C:\Users\This_User\Desktop\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.pdb
+E:\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.csprojAssemblyReference.cache
+E:\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.csproj.CoreCompileInputs.cache
+E:\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfoInputs.cache
+E:\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfo.cs
+E:\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.dll
+E:\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.pdb
+E:\projectApiOshra\Services\bin\Debug\netcoreapp2.1\credentials_last.json
+E:\projectApiOshra\Services\bin\Debug\netcoreapp2.1\credentials.json
+E:\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Services.deps.json
+E:\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Services.dll
+E:\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Services.pdb
+E:\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Common1.dll
+E:\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Repository.dll
+E:\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Servieces_Fw.exe
+E:\projectApiOshra\Services\bin\Debug\netcoreapp2.1\OpenNLP.dll
+E:\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Google.Apis.Gmail.v1.dll
+E:\projectApiOshra\Services\bin\Debug\netcoreapp2.1\SharpEntropy.dll
+E:\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Common1.pdb
+E:\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Repository.pdb
+E:\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Servieces_Fw.pdb
+E:\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Servieces_Fw.exe.config
+E:\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Google.Apis.Gmail.v1.pdb
+E:\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Google.Apis.Gmail.v1.xml
+E:\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.csproj.CopyComplete
+C:\Users\This_User\Desktop\תכנות\יד\projectApiOshra\Services\bin\Debug\netcoreapp2.1\credentials_last.json
+C:\Users\This_User\Desktop\תכנות\יד\projectApiOshra\Services\bin\Debug\netcoreapp2.1\credentials.json
+C:\Users\This_User\Desktop\תכנות\יד\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Services.deps.json
+C:\Users\This_User\Desktop\תכנות\יד\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Services.dll
+C:\Users\This_User\Desktop\תכנות\יד\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Services.pdb
+C:\Users\This_User\Desktop\תכנות\יד\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Common1.dll
+C:\Users\This_User\Desktop\תכנות\יד\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Repository.dll
+C:\Users\This_User\Desktop\תכנות\יד\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Servieces_Fw.exe
+C:\Users\This_User\Desktop\תכנות\יד\projectApiOshra\Services\bin\Debug\netcoreapp2.1\OpenNLP.dll
+C:\Users\This_User\Desktop\תכנות\יד\projectApiOshra\Services\bin\Debug\netcoreapp2.1\SharpEntropy.dll
+C:\Users\This_User\Desktop\תכנות\יד\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Common1.pdb
+C:\Users\This_User\Desktop\תכנות\יד\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Repository.pdb
+C:\Users\This_User\Desktop\תכנות\יד\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Servieces_Fw.pdb
+C:\Users\This_User\Desktop\תכנות\יד\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Servieces_Fw.exe.config
+C:\Users\This_User\Desktop\תכנות\יד\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.csprojAssemblyReference.cache
+C:\Users\This_User\Desktop\תכנות\יד\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.csproj.CoreCompileInputs.cache
+C:\Users\This_User\Desktop\תכנות\יד\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfoInputs.cache
+C:\Users\This_User\Desktop\תכנות\יד\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfo.cs
+C:\Users\This_User\Desktop\תכנות\יד\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.csproj.CopyComplete
+C:\Users\This_User\Desktop\תכנות\יד\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.dll
+C:\Users\This_User\Desktop\תכנות\יד\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.pdb
+G:\projectApiOshra\Services\bin\Debug\netcoreapp2.1\credentials_last.json
+G:\projectApiOshra\Services\bin\Debug\netcoreapp2.1\credentials.json
+G:\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Services.deps.json
+G:\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Services.dll
+G:\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Services.pdb
+G:\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Common1.dll
+G:\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Repository.dll
+G:\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Servieces_Fw.exe
+G:\projectApiOshra\Services\bin\Debug\netcoreapp2.1\OpenNLP.dll
+G:\projectApiOshra\Services\bin\Debug\netcoreapp2.1\SharpEntropy.dll
+G:\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Common1.pdb
+G:\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Repository.pdb
+G:\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Servieces_Fw.pdb
+G:\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Servieces_Fw.exe.config
+G:\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.csprojAssemblyReference.cache
+G:\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.csproj.CoreCompileInputs.cache
+G:\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfoInputs.cache
+G:\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfo.cs
+G:\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.csproj.CopyComplete
+G:\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.dll
+G:\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.pdb
+F:\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.csprojAssemblyReference.cache
+F:\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.csproj.CoreCompileInputs.cache
+F:\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfoInputs.cache
+F:\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfo.cs
+F:\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.dll
+F:\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.pdb
+F:\projectApiOshra\Services\bin\Debug\netcoreapp2.1\credentials_last.json
+F:\projectApiOshra\Services\bin\Debug\netcoreapp2.1\credentials.json
+F:\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Services.deps.json
+F:\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Services.dll
+F:\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Services.pdb
+F:\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Common1.dll
+F:\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Repository.dll
+F:\projectApiOshra\Services\bin\Debug\netcoreapp2.1\OpenNLP.dll
+F:\projectApiOshra\Services\bin\Debug\netcoreapp2.1\SharpEntropy.dll
+F:\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Common1.pdb
+F:\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Repository.pdb
+F:\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Servieces_Fw.pdb
+F:\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.csproj.CopyComplete
+F:\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Servieces_Fw.dll
+F:\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Servieces_Fw.dll.config
+D:\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Servieces_Fw.dll
+D:\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Servieces_Fw.dll.config
+F:\של אביגיל\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Services.deps.json
+F:\של אביגיל\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Services.dll
+F:\של אביגיל\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Services.pdb
+F:\של אביגיל\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Common1.dll
+F:\של אביגיל\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Repository.dll
+F:\של אביגיל\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Servieces_Fw.dll
+F:\של אביגיל\projectApiOshra\Services\bin\Debug\netcoreapp2.1\OpenNLP.dll
+F:\של אביגיל\projectApiOshra\Services\bin\Debug\netcoreapp2.1\SharpEntropy.dll
+F:\של אביגיל\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Common1.pdb
+F:\של אביגיל\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Repository.pdb
+F:\של אביגיל\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Servieces_Fw.pdb
+F:\של אביגיל\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Servieces_Fw.dll.config
+F:\של אביגיל\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.csprojAssemblyReference.cache
+F:\של אביגיל\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.csproj.CoreCompileInputs.cache
+F:\של אביגיל\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfoInputs.cache
+F:\של אביגיל\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfo.cs
+F:\של אביגיל\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.csproj.CopyComplete
+F:\של אביגיל\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.dll
+F:\של אביגיל\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.pdb
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Services.deps.json
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Services.dll
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Services.pdb
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Common1.dll
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Repository.dll
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Servieces_Fw.dll
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\Services\bin\Debug\netcoreapp2.1\OpenNLP.dll
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\Services\bin\Debug\netcoreapp2.1\SharpEntropy.dll
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Common1.pdb
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Repository.pdb
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Servieces_Fw.pdb
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\Services\bin\Debug\netcoreapp2.1\Servieces_Fw.dll.config
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.csprojAssemblyReference.cache
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.csproj.CoreCompileInputs.cache
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfoInputs.cache
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfo.cs
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.csproj.CopyComplete
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.dll
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\Services\obj\Debug\netcoreapp2.1\Services.pdb

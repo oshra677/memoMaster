@@ -1,0 +1,280 @@
+F:\יד\project_layers\project_layers\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+F:\יד\project_layers\project_layers\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\MemoAllAPI.deps.json
+F:\יד\project_layers\project_layers\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\MemoAllAPI.runtimeconfig.json
+F:\יד\project_layers\project_layers\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\MemoAllAPI.runtimeconfig.dev.json
+F:\יד\project_layers\project_layers\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\MemoAllAPI.dll
+F:\יד\project_layers\project_layers\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\MemoAllAPI.pdb
+F:\יד\project_layers\project_layers\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Services.dll
+F:\יד\project_layers\project_layers\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Services.pdb
+F:\יד\project_layers\project_layers\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.csprojAssemblyReference.cache
+F:\יד\project_layers\project_layers\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.RazorAssemblyInfo.cache
+F:\יד\project_layers\project_layers\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.RazorAssemblyInfo.cs
+F:\יד\project_layers\project_layers\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.AssemblyInfoInputs.cache
+F:\יד\project_layers\project_layers\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.AssemblyInfo.cs
+F:\יד\project_layers\project_layers\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.RazorTargetAssemblyInfo.cache
+F:\יד\project_layers\project_layers\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.csproj.CopyComplete
+F:\יד\project_layers\project_layers\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.dll
+F:\יד\project_layers\project_layers\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.pdb
+I:\Tichnut\students\322639899\12_02_Project\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\MemoAllAPI.deps.json
+I:\Tichnut\students\322639899\12_02_Project\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\MemoAllAPI.runtimeconfig.json
+I:\Tichnut\students\322639899\12_02_Project\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\MemoAllAPI.runtimeconfig.dev.json
+I:\Tichnut\students\322639899\12_02_Project\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\MemoAllAPI.dll
+I:\Tichnut\students\322639899\12_02_Project\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\MemoAllAPI.pdb
+I:\Tichnut\students\322639899\12_02_Project\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Services.dll
+I:\Tichnut\students\322639899\12_02_Project\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Services.pdb
+I:\Tichnut\students\322639899\12_02_Project\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.csprojAssemblyReference.cache
+I:\Tichnut\students\322639899\12_02_Project\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.csproj.CoreCompileInputs.cache
+I:\Tichnut\students\322639899\12_02_Project\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.RazorAssemblyInfo.cache
+I:\Tichnut\students\322639899\12_02_Project\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.RazorAssemblyInfo.cs
+I:\Tichnut\students\322639899\12_02_Project\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.AssemblyInfoInputs.cache
+I:\Tichnut\students\322639899\12_02_Project\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.AssemblyInfo.cs
+I:\Tichnut\students\322639899\12_02_Project\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.RazorTargetAssemblyInfo.cache
+I:\Tichnut\students\322639899\12_02_Project\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.csproj.CopyComplete
+I:\Tichnut\students\322639899\12_02_Project\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.dll
+I:\Tichnut\students\322639899\12_02_Project\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.pdb
+I:\Tichnut\students\322639899\12_02_Project\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Servieces_Fw.exe
+I:\Tichnut\students\322639899\12_02_Project\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\OpenNLP.dll
+I:\Tichnut\students\322639899\12_02_Project\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\SharpEntropy.dll
+I:\Tichnut\students\322639899\12_02_Project\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Servieces_Fw.pdb
+I:\Tichnut\students\322639899\12_02_Project\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Servieces_Fw.exe.config
+M:\12_02_Project\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.csprojAssemblyReference.cache
+M:\12_02_Project\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.csproj.CoreCompileInputs.cache
+M:\12_02_Project\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.RazorAssemblyInfo.cache
+M:\12_02_Project\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.RazorAssemblyInfo.cs
+M:\12_02_Project\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.AssemblyInfoInputs.cache
+M:\12_02_Project\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.AssemblyInfo.cs
+M:\12_02_Project\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.dll
+M:\12_02_Project\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.pdb
+M:\12_02_Project\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\MemoAllAPI.deps.json
+M:\12_02_Project\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\MemoAllAPI.runtimeconfig.json
+M:\12_02_Project\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\MemoAllAPI.runtimeconfig.dev.json
+M:\12_02_Project\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\MemoAllAPI.dll
+M:\12_02_Project\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\MemoAllAPI.pdb
+M:\12_02_Project\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Services.dll
+M:\12_02_Project\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Servieces_Fw.exe
+M:\12_02_Project\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\OpenNLP.dll
+M:\12_02_Project\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\SharpEntropy.dll
+M:\12_02_Project\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Services.pdb
+M:\12_02_Project\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Servieces_Fw.pdb
+M:\12_02_Project\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Servieces_Fw.exe.config
+M:\12_02_Project\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.RazorTargetAssemblyInfo.cache
+M:\12_02_Project\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.csproj.CopyComplete
+D:\יד\פרויקט אביגיל ואושרה\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\credentials.json
+D:\יד\פרויקט אביגיל ואושרה\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\MemoAllAPI.deps.json
+D:\יד\פרויקט אביגיל ואושרה\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\MemoAllAPI.runtimeconfig.json
+D:\יד\פרויקט אביגיל ואושרה\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\MemoAllAPI.runtimeconfig.dev.json
+D:\יד\פרויקט אביגיל ואושרה\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\MemoAllAPI.dll
+D:\יד\פרויקט אביגיל ואושרה\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\MemoAllAPI.pdb
+D:\יד\פרויקט אביגיל ואושרה\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Common1.dll
+D:\יד\פרויקט אביגיל ואושרה\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Repository.dll
+D:\יד\פרויקט אביגיל ואושרה\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Services.dll
+D:\יד\פרויקט אביגיל ואושרה\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Servieces_Fw.exe
+D:\יד\פרויקט אביגיל ואושרה\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\OpenNLP.dll
+D:\יד\פרויקט אביגיל ואושרה\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\SharpEntropy.dll
+D:\יד\פרויקט אביגיל ואושרה\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Services.pdb
+D:\יד\פרויקט אביגיל ואושרה\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Common1.pdb
+D:\יד\פרויקט אביגיל ואושרה\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Repository.pdb
+D:\יד\פרויקט אביגיל ואושרה\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Servieces_Fw.pdb
+D:\יד\פרויקט אביגיל ואושרה\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Servieces_Fw.exe.config
+D:\יד\פרויקט אביגיל ואושרה\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.csprojAssemblyReference.cache
+D:\יד\פרויקט אביגיל ואושרה\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.csproj.CoreCompileInputs.cache
+D:\יד\פרויקט אביגיל ואושרה\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.RazorAssemblyInfo.cache
+D:\יד\פרויקט אביגיל ואושרה\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.RazorAssemblyInfo.cs
+D:\יד\פרויקט אביגיל ואושרה\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.AssemblyInfoInputs.cache
+D:\יד\פרויקט אביגיל ואושרה\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.AssemblyInfo.cs
+D:\יד\פרויקט אביגיל ואושרה\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.RazorTargetAssemblyInfo.cache
+D:\יד\פרויקט אביגיל ואושרה\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.csproj.CopyComplete
+D:\יד\פרויקט אביגיל ואושרה\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.dll
+D:\יד\פרויקט אביגיל ואושרה\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.pdb
+D:\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\credentials.json
+D:\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\MemoAllAPI.deps.json
+D:\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\MemoAllAPI.runtimeconfig.json
+D:\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\MemoAllAPI.runtimeconfig.dev.json
+D:\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\MemoAllAPI.dll
+D:\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\MemoAllAPI.pdb
+D:\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Common1.dll
+D:\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Repository.dll
+D:\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Services.dll
+D:\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\OpenNLP.dll
+D:\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\SharpEntropy.dll
+D:\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Services.pdb
+D:\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Common1.pdb
+D:\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Repository.pdb
+D:\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Servieces_Fw.pdb
+D:\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.csprojAssemblyReference.cache
+D:\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.csproj.CoreCompileInputs.cache
+D:\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.RazorAssemblyInfo.cache
+D:\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.RazorAssemblyInfo.cs
+D:\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.AssemblyInfoInputs.cache
+D:\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.AssemblyInfo.cs
+D:\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.RazorTargetAssemblyInfo.cache
+D:\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.csproj.CopyComplete
+D:\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.dll
+D:\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.pdb
+C:\Users\This_User\Desktop\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\credentials.json
+C:\Users\This_User\Desktop\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\MemoAllAPI.deps.json
+C:\Users\This_User\Desktop\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\MemoAllAPI.runtimeconfig.json
+C:\Users\This_User\Desktop\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\MemoAllAPI.runtimeconfig.dev.json
+C:\Users\This_User\Desktop\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\MemoAllAPI.dll
+C:\Users\This_User\Desktop\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\MemoAllAPI.pdb
+C:\Users\This_User\Desktop\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Common1.dll
+C:\Users\This_User\Desktop\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Repository.dll
+C:\Users\This_User\Desktop\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Services.dll
+C:\Users\This_User\Desktop\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Servieces_Fw.exe
+C:\Users\This_User\Desktop\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\OpenNLP.dll
+C:\Users\This_User\Desktop\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\SharpEntropy.dll
+C:\Users\This_User\Desktop\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Services.pdb
+C:\Users\This_User\Desktop\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Common1.pdb
+C:\Users\This_User\Desktop\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Repository.pdb
+C:\Users\This_User\Desktop\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Servieces_Fw.pdb
+C:\Users\This_User\Desktop\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Servieces_Fw.exe.config
+C:\Users\This_User\Desktop\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.csprojAssemblyReference.cache
+C:\Users\This_User\Desktop\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.csproj.CoreCompileInputs.cache
+C:\Users\This_User\Desktop\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.RazorAssemblyInfo.cache
+C:\Users\This_User\Desktop\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.RazorAssemblyInfo.cs
+C:\Users\This_User\Desktop\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.AssemblyInfoInputs.cache
+C:\Users\This_User\Desktop\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.AssemblyInfo.cs
+C:\Users\This_User\Desktop\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.RazorTargetAssemblyInfo.cache
+C:\Users\This_User\Desktop\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.csproj.CopyComplete
+C:\Users\This_User\Desktop\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.dll
+C:\Users\This_User\Desktop\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.pdb
+C:\Users\This_User\Desktop\תכנות\יד\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\credentials_last.json
+C:\Users\This_User\Desktop\תכנות\יד\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\credentials.json
+C:\Users\This_User\Desktop\תכנות\יד\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\MemoAllAPI.deps.json
+C:\Users\This_User\Desktop\תכנות\יד\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\MemoAllAPI.runtimeconfig.json
+C:\Users\This_User\Desktop\תכנות\יד\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\MemoAllAPI.runtimeconfig.dev.json
+C:\Users\This_User\Desktop\תכנות\יד\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\MemoAllAPI.dll
+C:\Users\This_User\Desktop\תכנות\יד\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\MemoAllAPI.pdb
+C:\Users\This_User\Desktop\תכנות\יד\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Common1.dll
+C:\Users\This_User\Desktop\תכנות\יד\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Repository.dll
+C:\Users\This_User\Desktop\תכנות\יד\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Services.dll
+C:\Users\This_User\Desktop\תכנות\יד\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Servieces_Fw.exe
+C:\Users\This_User\Desktop\תכנות\יד\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\OpenNLP.dll
+C:\Users\This_User\Desktop\תכנות\יד\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\SharpEntropy.dll
+C:\Users\This_User\Desktop\תכנות\יד\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Services.pdb
+C:\Users\This_User\Desktop\תכנות\יד\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Common1.pdb
+C:\Users\This_User\Desktop\תכנות\יד\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Repository.pdb
+C:\Users\This_User\Desktop\תכנות\יד\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Servieces_Fw.pdb
+C:\Users\This_User\Desktop\תכנות\יד\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Servieces_Fw.exe.config
+C:\Users\This_User\Desktop\תכנות\יד\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.csprojAssemblyReference.cache
+C:\Users\This_User\Desktop\תכנות\יד\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.csproj.CoreCompileInputs.cache
+C:\Users\This_User\Desktop\תכנות\יד\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.RazorAssemblyInfo.cache
+C:\Users\This_User\Desktop\תכנות\יד\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.RazorAssemblyInfo.cs
+C:\Users\This_User\Desktop\תכנות\יד\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.AssemblyInfoInputs.cache
+C:\Users\This_User\Desktop\תכנות\יד\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.AssemblyInfo.cs
+C:\Users\This_User\Desktop\תכנות\יד\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.RazorTargetAssemblyInfo.cache
+C:\Users\This_User\Desktop\תכנות\יד\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.csproj.CopyComplete
+C:\Users\This_User\Desktop\תכנות\יד\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.dll
+C:\Users\This_User\Desktop\תכנות\יד\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.pdb
+G:\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\credentials_last.json
+G:\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\credentials.json
+G:\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\MemoAllAPI.deps.json
+G:\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\MemoAllAPI.runtimeconfig.json
+G:\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\MemoAllAPI.runtimeconfig.dev.json
+G:\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\MemoAllAPI.dll
+G:\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\MemoAllAPI.pdb
+G:\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Common1.dll
+G:\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Repository.dll
+G:\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Services.dll
+G:\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Servieces_Fw.exe
+G:\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\OpenNLP.dll
+G:\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\SharpEntropy.dll
+G:\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Services.pdb
+G:\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Common1.pdb
+G:\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Repository.pdb
+G:\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Servieces_Fw.pdb
+G:\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Servieces_Fw.exe.config
+G:\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.csprojAssemblyReference.cache
+G:\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.csproj.CoreCompileInputs.cache
+G:\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.RazorAssemblyInfo.cache
+G:\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.RazorAssemblyInfo.cs
+G:\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.AssemblyInfoInputs.cache
+G:\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.AssemblyInfo.cs
+G:\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.RazorTargetAssemblyInfo.cache
+G:\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.csproj.CopyComplete
+G:\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.dll
+G:\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.pdb
+F:\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\credentials_last.json
+F:\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\credentials.json
+F:\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\MemoAllAPI.deps.json
+F:\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\MemoAllAPI.runtimeconfig.json
+F:\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\MemoAllAPI.runtimeconfig.dev.json
+F:\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\MemoAllAPI.dll
+F:\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\MemoAllAPI.pdb
+F:\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Common1.dll
+F:\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Repository.dll
+F:\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Services.dll
+F:\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\OpenNLP.dll
+F:\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\SharpEntropy.dll
+F:\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Services.pdb
+F:\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Common1.pdb
+F:\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Repository.pdb
+F:\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Servieces_Fw.pdb
+F:\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.csprojAssemblyReference.cache
+F:\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.csproj.CoreCompileInputs.cache
+F:\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.RazorAssemblyInfo.cache
+F:\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.RazorAssemblyInfo.cs
+F:\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.AssemblyInfoInputs.cache
+F:\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.AssemblyInfo.cs
+F:\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.RazorTargetAssemblyInfo.cache
+F:\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.csproj.CopyComplete
+F:\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.dll
+F:\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.pdb
+F:\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Servieces_Fw.dll
+F:\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Servieces_Fw.dll.config
+D:\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Servieces_Fw.dll
+D:\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Servieces_Fw.dll.config
+F:\של אביגיל\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\credentials.json
+F:\של אביגיל\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\MemoAllAPI.deps.json
+F:\של אביגיל\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\MemoAllAPI.runtimeconfig.json
+F:\של אביגיל\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\MemoAllAPI.runtimeconfig.dev.json
+F:\של אביגיל\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\MemoAllAPI.dll
+F:\של אביגיל\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\MemoAllAPI.pdb
+F:\של אביגיל\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Common1.dll
+F:\של אביגיל\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Repository.dll
+F:\של אביגיל\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Services.dll
+F:\של אביגיל\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Servieces_Fw.dll
+F:\של אביגיל\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\OpenNLP.dll
+F:\של אביגיל\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\SharpEntropy.dll
+F:\של אביגיל\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Services.pdb
+F:\של אביגיל\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Common1.pdb
+F:\של אביגיל\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Repository.pdb
+F:\של אביגיל\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Servieces_Fw.pdb
+F:\של אביגיל\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Servieces_Fw.dll.config
+F:\של אביגיל\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.csprojAssemblyReference.cache
+F:\של אביגיל\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.csproj.CoreCompileInputs.cache
+F:\של אביגיל\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.RazorAssemblyInfo.cache
+F:\של אביגיל\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.RazorAssemblyInfo.cs
+F:\של אביגיל\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.AssemblyInfoInputs.cache
+F:\של אביגיל\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.AssemblyInfo.cs
+F:\של אביגיל\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.RazorTargetAssemblyInfo.cache
+F:\של אביגיל\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.csproj.CopyComplete
+F:\של אביגיל\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.dll
+F:\של אביגיל\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.pdb
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\credentials.json
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\MemoAllAPI.deps.json
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\MemoAllAPI.runtimeconfig.json
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\MemoAllAPI.runtimeconfig.dev.json
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\MemoAllAPI.dll
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\MemoAllAPI.pdb
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Common1.dll
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Repository.dll
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Services.dll
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Servieces_Fw.dll
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\OpenNLP.dll
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\SharpEntropy.dll
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Services.pdb
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Common1.pdb
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Repository.pdb
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Servieces_Fw.pdb
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\MemoAllAPI\bin\Debug\netcoreapp2.1\Servieces_Fw.dll.config
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.csprojAssemblyReference.cache
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.csproj.CoreCompileInputs.cache
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.RazorAssemblyInfo.cache
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.RazorAssemblyInfo.cs
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.AssemblyInfoInputs.cache
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.AssemblyInfo.cs
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.RazorTargetAssemblyInfo.cache
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.csproj.CopyComplete
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.dll
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\MemoAllAPI\obj\Debug\netcoreapp2.1\MemoAllAPI.pdb

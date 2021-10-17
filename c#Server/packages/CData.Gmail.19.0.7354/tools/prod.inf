@@ -1,0 +1,6 @@
+part=DLRE-A
+version=19.0
+build=7354
+prod=Gmail Data Provider 2019
+licpath=./
+licname=System.Data.CData.Gmail

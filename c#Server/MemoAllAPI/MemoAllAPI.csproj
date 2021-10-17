@@ -1,0 +1,74 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Remove="client_id.json" />
+    <Content Remove="credentials.json" />
+    <Content Remove="credentials_gmail.json" />
+    <Content Remove="credentials_last.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="obj\Debug\netcoreapp2.1\MemoAllAPI.AssemblyInfo.cs" />
+    <Compile Include="obj\Debug\netcoreapp2.1\MemoAllAPI.RazorAssemblyInfo.cs" />
+    <Compile Include="obj\Debug\netcoreapp2.1\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+    <Compile Include="obj\Debug\netcoreapp2.1\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+    <Compile Include="obj\Debug\netcoreapp2.1\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="bin\Debug\netcoreapp2.1\credentials.json" />
+    <Content Include="bin\Debug\netcoreapp2.1\MemoAllAPI.deps.json" />
+    <Content Include="bin\Debug\netcoreapp2.1\MemoAllAPI.runtimeconfig.dev.json" />
+    <Content Include="bin\Debug\netcoreapp2.1\MemoAllAPI.runtimeconfig.json" />
+    <Content Include="bin\Debug\netcoreapp2.1\Properties\launchSettings.json" />
+    <Content Include="obj\Debug\netcoreapp2.1\MemoAllAPI.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\MemoAllAPI.csproj.nuget.dgspec.json" />
+    <Content Include="obj\project.assets.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Debug\netcoreapp2.1\MemoAllAPI.dll" />
+    <None Include="bin\Debug\netcoreapp2.1\MemoAllAPI.pdb" />
+    <None Include="bin\Debug\netcoreapp2.1\OpenNLP.dll" />
+    <None Include="bin\Debug\netcoreapp2.1\Services.dll" />
+    <None Include="bin\Debug\netcoreapp2.1\Services.pdb" />
+    <None Include="bin\Debug\netcoreapp2.1\Servieces_Fw.exe" />
+    <None Include="bin\Debug\netcoreapp2.1\Servieces_Fw.exe.config" />
+    <None Include="bin\Debug\netcoreapp2.1\Servieces_Fw.pdb" />
+    <None Include="bin\Debug\netcoreapp2.1\SharpEntropy.dll" />
+    <None Include="credentials.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="obj\Debug\netcoreapp2.1\MemoAllAPI.AssemblyInfoInputs.cache" />
+    <None Include="obj\Debug\netcoreapp2.1\MemoAllAPI.assets.cache" />
+    <None Include="obj\Debug\netcoreapp2.1\MemoAllAPI.csproj.CopyComplete" />
+    <None Include="obj\Debug\netcoreapp2.1\MemoAllAPI.csproj.CoreCompileInputs.cache" />
+    <None Include="obj\Debug\netcoreapp2.1\MemoAllAPI.csprojAssemblyReference.cache" />
+    <None Include="obj\Debug\netcoreapp2.1\MemoAllAPI.dll" />
+    <None Include="obj\Debug\netcoreapp2.1\MemoAllAPI.pdb" />
+    <None Include="obj\Debug\netcoreapp2.1\MemoAllAPI.RazorAssemblyInfo.cache" />
+    <None Include="obj\Debug\netcoreapp2.1\MemoAllAPI.RazorTargetAssemblyInfo.cache" />
+    <None Include="obj\MemoAllAPI.csproj.nuget.cache" />
+    <None Include="obj\MemoAllAPI.csproj.nuget.g.props" />
+    <None Include="obj\MemoAllAPI.csproj.nuget.g.targets" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.2" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="2.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Services\Services.csproj" />
+  </ItemGroup>
+
+</Project>

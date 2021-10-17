@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "project-avigail-oshra",
+  "private_key_id": "1a3362e78980ff8134eb51ca71baf15cbc8c090b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCsdwPZJk1R2t1e\ngPkr+H04+7SZKXxCeABRBjw7LvZd+zuyKrMbY5excECfeEmHAZM+P6+DEY3SM7i8\nvjZS1r6onx2pIhtT2LyTYtpLTTzGW3ZnLoIn0cxpLx4R12lDwwBnq3vPcart9f4v\nXwn0vKdSrpwZWozwbuW4wjSxnU66XDPejV1Ap9XfypN8nC//PByi7+NJlem5Emrh\nvlqfMTjFoIc+L7hFRgHKtiitoy22gX+fQPL0lyNTR6CDqTEfLE8uW6ezWXjNBOKc\nqjxKyrF6LdRUY8LcKEAwIu2QfwsFTaJhCQqjmDYoPCx/o4Bi0hZUB42X6YzjGuai\ny2Ysol6pAgMBAAECggEABtkAYv03dXQvVS7hhdaLUUmEL48jPwfg+laZKl/oWg2t\nPnsdyqz7A0lx1WsbH0RHnoF8lGOMah/R2lOimEosvoj3zmT7aQo6XY8/m90MmFMe\nGcVx10coGraLVvnCtRUvZU5cn31TxDg/0A1x2aDqc1jZu5N59Ftw3VO/sBwu+az6\nE6paikbRpr28cJl/Xl4euQeSNfrRAH0xGnbxqvAMdbWxSBAZLDrDITYD+/9ip2g6\nrA24w26GtIIvMU+mCEQmO3mcudt+CnbkorNAIdiMTJNjvHxDm22msD6YlSJm8eAz\n4U9nUiS4+3Oju9uELmWoneBJ6Dp/M5h3psIxvHJ6AQKBgQDZcaCL3QhonorUHxkB\n4/jztEBRI4ukugr4vB2YtStQ2swUsNH4vqxC0G987dhDMHEp1EjUqeHexHU9b011\nxGzgE3+SO2Ax6mtDPNigzQu4XszE2L3ykjMYjMse5+VsUE5jZUZg5l6AQo/8Lu4N\nUDuSx3sXErg+JWmtZpFbKJYcqQKBgQDLC6t8JDFudEInAFoF5OhrQ2/VSeje9QyH\nLEBxDnbbiGJy/pDFwMZZ4aEss3JCglY6JP+WtSDCpGcbcjrD1gBgxBQH2Im13QLb\nHo3aAL9QwJqeoKa6Ep4QUdfXvHZXr3X90SVQarESRa48ihbt2TXqHsbl6R7RnZ2f\nFjFpHaFyAQKBgDLDeDuuynvCJ58F84yhcElU138Z0UwPsugG4tH32bjym5po/VwZ\nB5ZBmwWLcWWeNY0SZj5fur+LFePVzDumM9TMOIgnHHoKxCfaWKiRth7A4wVBpHaw\n8wTUOcdpVAJJbUN/LUMKBR3kbEDvo9uv03ic4Xutfx3jFhzJST4C56ihAoGAUVoh\noSGXNJwcDShU6Vuny6I/YoO0a/BezqHqR+H1uUvRtiVMuA7e6hA+1XwoYYF7Lty4\nExgLQjFApnyEEwbhK+Qj6mjV9CnTBRwe1aPLA33H9ZqEcrUW448HHgcCm2tPqRxt\nCOVWgO2uO89QFIgc0+r04hUfJfkyuBTaQzV+BAECgYAJZlW12U+YSalL/r5PllWq\n5CgoaJeAzlIA5+a4KRxM8sGByX8ormf8Li52DgvpOuA/xehZe9IFW2nSQKo7nofb\n66QCJGfAO5W6ifYyjfwsUrV+jNhUQZp8oWuFWtWLR71LZ8zRaj5dy8RrWuHiW1k0\nKFJzGeK4LVKWYDrxoTEHHw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "my-speech-to-text-sa@project-avigail-oshra.iam.gserviceaccount.com",
+  "client_id": "110586411113742593281",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/my-speech-to-text-sa%40project-avigail-oshra.iam.gserviceaccount.com"
+}

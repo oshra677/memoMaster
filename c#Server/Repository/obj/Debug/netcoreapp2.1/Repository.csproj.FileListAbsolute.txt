@@ -1,0 +1,142 @@
+M:\web api\projectApiOshra\Repository\bin\Debug\netcoreapp2.1\Repository.deps.json
+M:\web api\projectApiOshra\Repository\bin\Debug\netcoreapp2.1\Repository.dll
+M:\web api\projectApiOshra\Repository\obj\Debug\netcoreapp2.1\Repository.csprojAssemblyReference.cache
+M:\web api\projectApiOshra\Repository\obj\Debug\netcoreapp2.1\Repository.csproj.CoreCompileInputs.cache
+M:\web api\projectApiOshra\Repository\obj\Debug\netcoreapp2.1\Repository.AssemblyInfoInputs.cache
+M:\web api\projectApiOshra\Repository\obj\Debug\netcoreapp2.1\Repository.AssemblyInfo.cs
+M:\web api\projectApiOshra\Repository\bin\Debug\netcoreapp2.1\Repository.runtimeconfig.json
+M:\web api\projectApiOshra\Repository\bin\Debug\netcoreapp2.1\Repository.runtimeconfig.dev.json
+M:\web api\projectApiOshra\Repository\bin\Debug\netcoreapp2.1\Repository.pdb
+M:\web api\projectApiOshra\Repository\obj\Debug\netcoreapp2.1\Repository.dll
+M:\web api\projectApiOshra\Repository\obj\Debug\netcoreapp2.1\Repository.pdb
+I:\Tichnut\students\322639899\web api\projectApiOshra\Repository\bin\Debug\netcoreapp2.1\Repository.deps.json
+I:\Tichnut\students\322639899\web api\projectApiOshra\Repository\bin\Debug\netcoreapp2.1\Repository.runtimeconfig.json
+I:\Tichnut\students\322639899\web api\projectApiOshra\Repository\bin\Debug\netcoreapp2.1\Repository.runtimeconfig.dev.json
+I:\Tichnut\students\322639899\web api\projectApiOshra\Repository\bin\Debug\netcoreapp2.1\Repository.dll
+I:\Tichnut\students\322639899\web api\projectApiOshra\Repository\bin\Debug\netcoreapp2.1\Repository.pdb
+I:\Tichnut\students\322639899\web api\projectApiOshra\Repository\obj\Debug\netcoreapp2.1\Repository.csprojAssemblyReference.cache
+I:\Tichnut\students\322639899\web api\projectApiOshra\Repository\obj\Debug\netcoreapp2.1\Repository.csproj.CoreCompileInputs.cache
+I:\Tichnut\students\322639899\web api\projectApiOshra\Repository\obj\Debug\netcoreapp2.1\Repository.AssemblyInfoInputs.cache
+I:\Tichnut\students\322639899\web api\projectApiOshra\Repository\obj\Debug\netcoreapp2.1\Repository.AssemblyInfo.cs
+I:\Tichnut\students\322639899\web api\projectApiOshra\Repository\obj\Debug\netcoreapp2.1\Repository.dll
+I:\Tichnut\students\322639899\web api\projectApiOshra\Repository\obj\Debug\netcoreapp2.1\Repository.pdb
+I:\Tichnut\students\322639899\project_layers\projectApiOshra\Repository\bin\Debug\netcoreapp2.1\Repository.deps.json
+I:\Tichnut\students\322639899\project_layers\projectApiOshra\Repository\bin\Debug\netcoreapp2.1\Repository.runtimeconfig.json
+I:\Tichnut\students\322639899\project_layers\projectApiOshra\Repository\bin\Debug\netcoreapp2.1\Repository.runtimeconfig.dev.json
+I:\Tichnut\students\322639899\project_layers\projectApiOshra\Repository\bin\Debug\netcoreapp2.1\Repository.dll
+I:\Tichnut\students\322639899\project_layers\projectApiOshra\Repository\bin\Debug\netcoreapp2.1\Repository.pdb
+I:\Tichnut\students\322639899\project_layers\projectApiOshra\Repository\obj\Debug\netcoreapp2.1\Repository.csprojAssemblyReference.cache
+I:\Tichnut\students\322639899\project_layers\projectApiOshra\Repository\obj\Debug\netcoreapp2.1\Repository.csproj.CoreCompileInputs.cache
+I:\Tichnut\students\322639899\project_layers\projectApiOshra\Repository\obj\Debug\netcoreapp2.1\Repository.AssemblyInfoInputs.cache
+I:\Tichnut\students\322639899\project_layers\projectApiOshra\Repository\obj\Debug\netcoreapp2.1\Repository.AssemblyInfo.cs
+I:\Tichnut\students\322639899\project_layers\projectApiOshra\Repository\obj\Debug\netcoreapp2.1\Repository.dll
+I:\Tichnut\students\322639899\project_layers\projectApiOshra\Repository\obj\Debug\netcoreapp2.1\Repository.pdb
+F:\יד\project_layers\project_layers\projectApiOshra\Repository\bin\Debug\netcoreapp2.1\Repository.deps.json
+F:\יד\project_layers\project_layers\projectApiOshra\Repository\bin\Debug\netcoreapp2.1\Repository.runtimeconfig.json
+F:\יד\project_layers\project_layers\projectApiOshra\Repository\bin\Debug\netcoreapp2.1\Repository.runtimeconfig.dev.json
+F:\יד\project_layers\project_layers\projectApiOshra\Repository\bin\Debug\netcoreapp2.1\Repository.dll
+F:\יד\project_layers\project_layers\projectApiOshra\Repository\bin\Debug\netcoreapp2.1\Repository.pdb
+F:\יד\project_layers\project_layers\projectApiOshra\Repository\obj\Debug\netcoreapp2.1\Repository.csprojAssemblyReference.cache
+F:\יד\project_layers\project_layers\projectApiOshra\Repository\obj\Debug\netcoreapp2.1\Repository.AssemblyInfoInputs.cache
+F:\יד\project_layers\project_layers\projectApiOshra\Repository\obj\Debug\netcoreapp2.1\Repository.AssemblyInfo.cs
+F:\יד\project_layers\project_layers\projectApiOshra\Repository\obj\Debug\netcoreapp2.1\Repository.dll
+F:\יד\project_layers\project_layers\projectApiOshra\Repository\obj\Debug\netcoreapp2.1\Repository.pdb
+D:\יד\פרויקט אביגיל ואושרה\projectApiOshra\Repository\bin\Debug\netcoreapp2.1\Repository.deps.json
+D:\יד\פרויקט אביגיל ואושרה\projectApiOshra\Repository\bin\Debug\netcoreapp2.1\Repository.runtimeconfig.json
+D:\יד\פרויקט אביגיל ואושרה\projectApiOshra\Repository\bin\Debug\netcoreapp2.1\Repository.runtimeconfig.dev.json
+D:\יד\פרויקט אביגיל ואושרה\projectApiOshra\Repository\bin\Debug\netcoreapp2.1\Repository.dll
+D:\יד\פרויקט אביגיל ואושרה\projectApiOshra\Repository\bin\Debug\netcoreapp2.1\Repository.pdb
+D:\יד\פרויקט אביגיל ואושרה\projectApiOshra\Repository\obj\Debug\netcoreapp2.1\Repository.csprojAssemblyReference.cache
+D:\יד\פרויקט אביגיל ואושרה\projectApiOshra\Repository\obj\Debug\netcoreapp2.1\Repository.csproj.CoreCompileInputs.cache
+D:\יד\פרויקט אביגיל ואושרה\projectApiOshra\Repository\obj\Debug\netcoreapp2.1\Repository.AssemblyInfoInputs.cache
+D:\יד\פרויקט אביגיל ואושרה\projectApiOshra\Repository\obj\Debug\netcoreapp2.1\Repository.AssemblyInfo.cs
+D:\יד\פרויקט אביגיל ואושרה\projectApiOshra\Repository\obj\Debug\netcoreapp2.1\Repository.dll
+D:\יד\פרויקט אביגיל ואושרה\projectApiOshra\Repository\obj\Debug\netcoreapp2.1\Repository.pdb
+D:\projectApiOshra\Repository\bin\Debug\netcoreapp2.1\Repository.deps.json
+D:\projectApiOshra\Repository\bin\Debug\netcoreapp2.1\Repository.runtimeconfig.json
+D:\projectApiOshra\Repository\bin\Debug\netcoreapp2.1\Repository.runtimeconfig.dev.json
+D:\projectApiOshra\Repository\bin\Debug\netcoreapp2.1\Repository.dll
+D:\projectApiOshra\Repository\bin\Debug\netcoreapp2.1\Repository.pdb
+D:\projectApiOshra\Repository\obj\Debug\netcoreapp2.1\Repository.csproj.CoreCompileInputs.cache
+D:\projectApiOshra\Repository\obj\Debug\netcoreapp2.1\Repository.AssemblyInfoInputs.cache
+D:\projectApiOshra\Repository\obj\Debug\netcoreapp2.1\Repository.AssemblyInfo.cs
+D:\projectApiOshra\Repository\obj\Debug\netcoreapp2.1\Repository.dll
+D:\projectApiOshra\Repository\obj\Debug\netcoreapp2.1\Repository.pdb
+C:\Users\This_User\Desktop\projectApiOshra\Repository\bin\Debug\netcoreapp2.1\Repository.deps.json
+C:\Users\This_User\Desktop\projectApiOshra\Repository\bin\Debug\netcoreapp2.1\Repository.runtimeconfig.json
+C:\Users\This_User\Desktop\projectApiOshra\Repository\bin\Debug\netcoreapp2.1\Repository.runtimeconfig.dev.json
+C:\Users\This_User\Desktop\projectApiOshra\Repository\bin\Debug\netcoreapp2.1\Repository.dll
+C:\Users\This_User\Desktop\projectApiOshra\Repository\bin\Debug\netcoreapp2.1\Repository.pdb
+C:\Users\This_User\Desktop\projectApiOshra\Repository\obj\Debug\netcoreapp2.1\Repository.csprojAssemblyReference.cache
+C:\Users\This_User\Desktop\projectApiOshra\Repository\obj\Debug\netcoreapp2.1\Repository.csproj.CoreCompileInputs.cache
+C:\Users\This_User\Desktop\projectApiOshra\Repository\obj\Debug\netcoreapp2.1\Repository.AssemblyInfoInputs.cache
+C:\Users\This_User\Desktop\projectApiOshra\Repository\obj\Debug\netcoreapp2.1\Repository.AssemblyInfo.cs
+C:\Users\This_User\Desktop\projectApiOshra\Repository\obj\Debug\netcoreapp2.1\Repository.dll
+C:\Users\This_User\Desktop\projectApiOshra\Repository\obj\Debug\netcoreapp2.1\Repository.pdb
+E:\projectApiOshra\Repository\bin\Debug\netcoreapp2.1\Repository.deps.json
+E:\projectApiOshra\Repository\bin\Debug\netcoreapp2.1\Repository.runtimeconfig.json
+E:\projectApiOshra\Repository\bin\Debug\netcoreapp2.1\Repository.runtimeconfig.dev.json
+E:\projectApiOshra\Repository\bin\Debug\netcoreapp2.1\Repository.dll
+E:\projectApiOshra\Repository\bin\Debug\netcoreapp2.1\Repository.pdb
+E:\projectApiOshra\Repository\obj\Debug\netcoreapp2.1\Repository.csprojAssemblyReference.cache
+E:\projectApiOshra\Repository\obj\Debug\netcoreapp2.1\Repository.csproj.CoreCompileInputs.cache
+E:\projectApiOshra\Repository\obj\Debug\netcoreapp2.1\Repository.AssemblyInfoInputs.cache
+E:\projectApiOshra\Repository\obj\Debug\netcoreapp2.1\Repository.AssemblyInfo.cs
+E:\projectApiOshra\Repository\obj\Debug\netcoreapp2.1\Repository.dll
+E:\projectApiOshra\Repository\obj\Debug\netcoreapp2.1\Repository.pdb
+D:\projectApiOshra\Repository\obj\Debug\netcoreapp2.1\Repository.csprojAssemblyReference.cache
+C:\Users\This_User\Desktop\תכנות\יד\projectApiOshra\Repository\bin\Debug\netcoreapp2.1\Repository.deps.json
+C:\Users\This_User\Desktop\תכנות\יד\projectApiOshra\Repository\bin\Debug\netcoreapp2.1\Repository.runtimeconfig.json
+C:\Users\This_User\Desktop\תכנות\יד\projectApiOshra\Repository\bin\Debug\netcoreapp2.1\Repository.runtimeconfig.dev.json
+C:\Users\This_User\Desktop\תכנות\יד\projectApiOshra\Repository\bin\Debug\netcoreapp2.1\Repository.dll
+C:\Users\This_User\Desktop\תכנות\יד\projectApiOshra\Repository\bin\Debug\netcoreapp2.1\Repository.pdb
+C:\Users\This_User\Desktop\תכנות\יד\projectApiOshra\Repository\obj\Debug\netcoreapp2.1\Repository.csprojAssemblyReference.cache
+C:\Users\This_User\Desktop\תכנות\יד\projectApiOshra\Repository\obj\Debug\netcoreapp2.1\Repository.csproj.CoreCompileInputs.cache
+C:\Users\This_User\Desktop\תכנות\יד\projectApiOshra\Repository\obj\Debug\netcoreapp2.1\Repository.AssemblyInfoInputs.cache
+C:\Users\This_User\Desktop\תכנות\יד\projectApiOshra\Repository\obj\Debug\netcoreapp2.1\Repository.AssemblyInfo.cs
+C:\Users\This_User\Desktop\תכנות\יד\projectApiOshra\Repository\obj\Debug\netcoreapp2.1\Repository.dll
+C:\Users\This_User\Desktop\תכנות\יד\projectApiOshra\Repository\obj\Debug\netcoreapp2.1\Repository.pdb
+G:\projectApiOshra\Repository\bin\Debug\netcoreapp2.1\Repository.deps.json
+G:\projectApiOshra\Repository\bin\Debug\netcoreapp2.1\Repository.runtimeconfig.json
+G:\projectApiOshra\Repository\bin\Debug\netcoreapp2.1\Repository.runtimeconfig.dev.json
+G:\projectApiOshra\Repository\bin\Debug\netcoreapp2.1\Repository.dll
+G:\projectApiOshra\Repository\bin\Debug\netcoreapp2.1\Repository.pdb
+G:\projectApiOshra\Repository\obj\Debug\netcoreapp2.1\Repository.csprojAssemblyReference.cache
+G:\projectApiOshra\Repository\obj\Debug\netcoreapp2.1\Repository.csproj.CoreCompileInputs.cache
+G:\projectApiOshra\Repository\obj\Debug\netcoreapp2.1\Repository.AssemblyInfoInputs.cache
+G:\projectApiOshra\Repository\obj\Debug\netcoreapp2.1\Repository.AssemblyInfo.cs
+G:\projectApiOshra\Repository\obj\Debug\netcoreapp2.1\Repository.dll
+G:\projectApiOshra\Repository\obj\Debug\netcoreapp2.1\Repository.pdb
+F:\projectApiOshra\Repository\bin\Debug\netcoreapp2.1\Repository.deps.json
+F:\projectApiOshra\Repository\bin\Debug\netcoreapp2.1\Repository.runtimeconfig.json
+F:\projectApiOshra\Repository\bin\Debug\netcoreapp2.1\Repository.runtimeconfig.dev.json
+F:\projectApiOshra\Repository\bin\Debug\netcoreapp2.1\Repository.dll
+F:\projectApiOshra\Repository\bin\Debug\netcoreapp2.1\Repository.pdb
+F:\projectApiOshra\Repository\obj\Debug\netcoreapp2.1\Repository.csprojAssemblyReference.cache
+F:\projectApiOshra\Repository\obj\Debug\netcoreapp2.1\Repository.csproj.CoreCompileInputs.cache
+F:\projectApiOshra\Repository\obj\Debug\netcoreapp2.1\Repository.AssemblyInfoInputs.cache
+F:\projectApiOshra\Repository\obj\Debug\netcoreapp2.1\Repository.AssemblyInfo.cs
+F:\projectApiOshra\Repository\obj\Debug\netcoreapp2.1\Repository.dll
+F:\projectApiOshra\Repository\obj\Debug\netcoreapp2.1\Repository.pdb
+F:\של אביגיל\projectApiOshra\Repository\bin\Debug\netcoreapp2.1\Repository.deps.json
+F:\של אביגיל\projectApiOshra\Repository\bin\Debug\netcoreapp2.1\Repository.runtimeconfig.json
+F:\של אביגיל\projectApiOshra\Repository\bin\Debug\netcoreapp2.1\Repository.runtimeconfig.dev.json
+F:\של אביגיל\projectApiOshra\Repository\bin\Debug\netcoreapp2.1\Repository.dll
+F:\של אביגיל\projectApiOshra\Repository\bin\Debug\netcoreapp2.1\Repository.pdb
+F:\של אביגיל\projectApiOshra\Repository\obj\Debug\netcoreapp2.1\Repository.csprojAssemblyReference.cache
+F:\של אביגיל\projectApiOshra\Repository\obj\Debug\netcoreapp2.1\Repository.csproj.CoreCompileInputs.cache
+F:\של אביגיל\projectApiOshra\Repository\obj\Debug\netcoreapp2.1\Repository.AssemblyInfoInputs.cache
+F:\של אביגיל\projectApiOshra\Repository\obj\Debug\netcoreapp2.1\Repository.AssemblyInfo.cs
+F:\של אביגיל\projectApiOshra\Repository\obj\Debug\netcoreapp2.1\Repository.dll
+F:\של אביגיל\projectApiOshra\Repository\obj\Debug\netcoreapp2.1\Repository.pdb
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\Repository\bin\Debug\netcoreapp2.1\Repository.deps.json
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\Repository\bin\Debug\netcoreapp2.1\Repository.runtimeconfig.json
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\Repository\bin\Debug\netcoreapp2.1\Repository.runtimeconfig.dev.json
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\Repository\bin\Debug\netcoreapp2.1\Repository.dll
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\Repository\bin\Debug\netcoreapp2.1\Repository.pdb
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\Repository\obj\Debug\netcoreapp2.1\Repository.csprojAssemblyReference.cache
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\Repository\obj\Debug\netcoreapp2.1\Repository.csproj.CoreCompileInputs.cache
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\Repository\obj\Debug\netcoreapp2.1\Repository.AssemblyInfoInputs.cache
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\Repository\obj\Debug\netcoreapp2.1\Repository.AssemblyInfo.cs
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\Repository\obj\Debug\netcoreapp2.1\Repository.dll
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\Repository\obj\Debug\netcoreapp2.1\Repository.pdb

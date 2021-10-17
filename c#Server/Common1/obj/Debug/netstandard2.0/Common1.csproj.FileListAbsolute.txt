@@ -1,0 +1,81 @@
+D:\יד\פרויקט אביגיל ואושרה\projectApiOshra\Common1\bin\Debug\netstandard2.0\Common1.deps.json
+D:\יד\פרויקט אביגיל ואושרה\projectApiOshra\Common1\bin\Debug\netstandard2.0\Common1.dll
+D:\יד\פרויקט אביגיל ואושרה\projectApiOshra\Common1\bin\Debug\netstandard2.0\Common1.pdb
+D:\יד\פרויקט אביגיל ואושרה\projectApiOshra\Common1\obj\Debug\netstandard2.0\Common1.csprojAssemblyReference.cache
+D:\יד\פרויקט אביגיל ואושרה\projectApiOshra\Common1\obj\Debug\netstandard2.0\Common1.csproj.CoreCompileInputs.cache
+D:\יד\פרויקט אביגיל ואושרה\projectApiOshra\Common1\obj\Debug\netstandard2.0\Common1.AssemblyInfoInputs.cache
+D:\יד\פרויקט אביגיל ואושרה\projectApiOshra\Common1\obj\Debug\netstandard2.0\Common1.AssemblyInfo.cs
+D:\יד\פרויקט אביגיל ואושרה\projectApiOshra\Common1\obj\Debug\netstandard2.0\Common1.dll
+D:\יד\פרויקט אביגיל ואושרה\projectApiOshra\Common1\obj\Debug\netstandard2.0\Common1.pdb
+D:\projectApiOshra\Common1\bin\Debug\netstandard2.0\Common1.deps.json
+D:\projectApiOshra\Common1\bin\Debug\netstandard2.0\Common1.dll
+D:\projectApiOshra\Common1\bin\Debug\netstandard2.0\Common1.pdb
+D:\projectApiOshra\Common1\obj\Debug\netstandard2.0\Common1.csproj.CoreCompileInputs.cache
+D:\projectApiOshra\Common1\obj\Debug\netstandard2.0\Common1.AssemblyInfoInputs.cache
+D:\projectApiOshra\Common1\obj\Debug\netstandard2.0\Common1.AssemblyInfo.cs
+D:\projectApiOshra\Common1\obj\Debug\netstandard2.0\Common1.dll
+D:\projectApiOshra\Common1\obj\Debug\netstandard2.0\Common1.pdb
+C:\Users\This_User\Desktop\projectApiOshra\Common1\bin\Debug\netstandard2.0\Common1.deps.json
+C:\Users\This_User\Desktop\projectApiOshra\Common1\bin\Debug\netstandard2.0\Common1.dll
+C:\Users\This_User\Desktop\projectApiOshra\Common1\bin\Debug\netstandard2.0\Common1.pdb
+C:\Users\This_User\Desktop\projectApiOshra\Common1\obj\Debug\netstandard2.0\Common1.csprojAssemblyReference.cache
+C:\Users\This_User\Desktop\projectApiOshra\Common1\obj\Debug\netstandard2.0\Common1.csproj.CoreCompileInputs.cache
+C:\Users\This_User\Desktop\projectApiOshra\Common1\obj\Debug\netstandard2.0\Common1.AssemblyInfoInputs.cache
+C:\Users\This_User\Desktop\projectApiOshra\Common1\obj\Debug\netstandard2.0\Common1.AssemblyInfo.cs
+C:\Users\This_User\Desktop\projectApiOshra\Common1\obj\Debug\netstandard2.0\Common1.dll
+C:\Users\This_User\Desktop\projectApiOshra\Common1\obj\Debug\netstandard2.0\Common1.pdb
+E:\projectApiOshra\Common1\bin\Debug\netstandard2.0\Common1.deps.json
+E:\projectApiOshra\Common1\bin\Debug\netstandard2.0\Common1.dll
+E:\projectApiOshra\Common1\bin\Debug\netstandard2.0\Common1.pdb
+E:\projectApiOshra\Common1\obj\Debug\netstandard2.0\Common1.csprojAssemblyReference.cache
+E:\projectApiOshra\Common1\obj\Debug\netstandard2.0\Common1.csproj.CoreCompileInputs.cache
+E:\projectApiOshra\Common1\obj\Debug\netstandard2.0\Common1.AssemblyInfoInputs.cache
+E:\projectApiOshra\Common1\obj\Debug\netstandard2.0\Common1.AssemblyInfo.cs
+E:\projectApiOshra\Common1\obj\Debug\netstandard2.0\Common1.dll
+E:\projectApiOshra\Common1\obj\Debug\netstandard2.0\Common1.pdb
+C:\Users\This_User\Desktop\תכנות\יד\projectApiOshra\Common1\bin\Debug\netstandard2.0\Common1.deps.json
+C:\Users\This_User\Desktop\תכנות\יד\projectApiOshra\Common1\bin\Debug\netstandard2.0\Common1.dll
+C:\Users\This_User\Desktop\תכנות\יד\projectApiOshra\Common1\bin\Debug\netstandard2.0\Common1.pdb
+C:\Users\This_User\Desktop\תכנות\יד\projectApiOshra\Common1\obj\Debug\netstandard2.0\Common1.csprojAssemblyReference.cache
+C:\Users\This_User\Desktop\תכנות\יד\projectApiOshra\Common1\obj\Debug\netstandard2.0\Common1.csproj.CoreCompileInputs.cache
+C:\Users\This_User\Desktop\תכנות\יד\projectApiOshra\Common1\obj\Debug\netstandard2.0\Common1.AssemblyInfoInputs.cache
+C:\Users\This_User\Desktop\תכנות\יד\projectApiOshra\Common1\obj\Debug\netstandard2.0\Common1.AssemblyInfo.cs
+C:\Users\This_User\Desktop\תכנות\יד\projectApiOshra\Common1\obj\Debug\netstandard2.0\Common1.dll
+C:\Users\This_User\Desktop\תכנות\יד\projectApiOshra\Common1\obj\Debug\netstandard2.0\Common1.pdb
+G:\projectApiOshra\Common1\bin\Debug\netstandard2.0\Common1.deps.json
+G:\projectApiOshra\Common1\bin\Debug\netstandard2.0\Common1.dll
+G:\projectApiOshra\Common1\bin\Debug\netstandard2.0\Common1.pdb
+G:\projectApiOshra\Common1\obj\Debug\netstandard2.0\Common1.csprojAssemblyReference.cache
+G:\projectApiOshra\Common1\obj\Debug\netstandard2.0\Common1.csproj.CoreCompileInputs.cache
+G:\projectApiOshra\Common1\obj\Debug\netstandard2.0\Common1.AssemblyInfoInputs.cache
+G:\projectApiOshra\Common1\obj\Debug\netstandard2.0\Common1.AssemblyInfo.cs
+G:\projectApiOshra\Common1\obj\Debug\netstandard2.0\Common1.dll
+G:\projectApiOshra\Common1\obj\Debug\netstandard2.0\Common1.pdb
+F:\projectApiOshra\Common1\bin\Debug\netstandard2.0\Common1.deps.json
+F:\projectApiOshra\Common1\bin\Debug\netstandard2.0\Common1.dll
+F:\projectApiOshra\Common1\bin\Debug\netstandard2.0\Common1.pdb
+F:\projectApiOshra\Common1\obj\Debug\netstandard2.0\Common1.csprojAssemblyReference.cache
+F:\projectApiOshra\Common1\obj\Debug\netstandard2.0\Common1.csproj.CoreCompileInputs.cache
+F:\projectApiOshra\Common1\obj\Debug\netstandard2.0\Common1.AssemblyInfoInputs.cache
+F:\projectApiOshra\Common1\obj\Debug\netstandard2.0\Common1.AssemblyInfo.cs
+F:\projectApiOshra\Common1\obj\Debug\netstandard2.0\Common1.dll
+F:\projectApiOshra\Common1\obj\Debug\netstandard2.0\Common1.pdb
+D:\projectApiOshra\Common1\obj\Debug\netstandard2.0\Common1.csprojAssemblyReference.cache
+F:\של אביגיל\projectApiOshra\Common1\bin\Debug\netstandard2.0\Common1.deps.json
+F:\של אביגיל\projectApiOshra\Common1\bin\Debug\netstandard2.0\Common1.dll
+F:\של אביגיל\projectApiOshra\Common1\bin\Debug\netstandard2.0\Common1.pdb
+F:\של אביגיל\projectApiOshra\Common1\obj\Debug\netstandard2.0\Common1.csprojAssemblyReference.cache
+F:\של אביגיל\projectApiOshra\Common1\obj\Debug\netstandard2.0\Common1.csproj.CoreCompileInputs.cache
+F:\של אביגיל\projectApiOshra\Common1\obj\Debug\netstandard2.0\Common1.AssemblyInfoInputs.cache
+F:\של אביגיל\projectApiOshra\Common1\obj\Debug\netstandard2.0\Common1.AssemblyInfo.cs
+F:\של אביגיל\projectApiOshra\Common1\obj\Debug\netstandard2.0\Common1.dll
+F:\של אביגיל\projectApiOshra\Common1\obj\Debug\netstandard2.0\Common1.pdb
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\Common1\bin\Debug\netstandard2.0\Common1.deps.json
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\Common1\bin\Debug\netstandard2.0\Common1.dll
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\Common1\bin\Debug\netstandard2.0\Common1.pdb
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\Common1\obj\Debug\netstandard2.0\Common1.csprojAssemblyReference.cache
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\Common1\obj\Debug\netstandard2.0\Common1.csproj.CoreCompileInputs.cache
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\Common1\obj\Debug\netstandard2.0\Common1.AssemblyInfoInputs.cache
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\Common1\obj\Debug\netstandard2.0\Common1.AssemblyInfo.cs
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\Common1\obj\Debug\netstandard2.0\Common1.dll
+C:\Users\This_User\Desktop\פרויקט גמר יד\הפרויקט בC#\projectApiOshra\Common1\obj\Debug\netstandard2.0\Common1.pdb

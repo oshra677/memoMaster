@@ -1,0 +1,10 @@
+I:\Tichnut\students\322639899\12_02_Project\projectApiOshra\Servieces_Fw\bin\Debug\Servieces_Fw.exe.config
+I:\Tichnut\students\322639899\12_02_Project\projectApiOshra\Servieces_Fw\bin\Debug\Servieces_Fw.exe
+I:\Tichnut\students\322639899\12_02_Project\projectApiOshra\Servieces_Fw\bin\Debug\Servieces_Fw.pdb
+I:\Tichnut\students\322639899\12_02_Project\projectApiOshra\Servieces_Fw\bin\Debug\OpenNLP.dll
+I:\Tichnut\students\322639899\12_02_Project\projectApiOshra\Servieces_Fw\bin\Debug\SharpEntropy.dll
+I:\Tichnut\students\322639899\12_02_Project\projectApiOshra\Servieces_Fw\obj\Debug\Servieces_Fw.csprojAssemblyReference.cache
+I:\Tichnut\students\322639899\12_02_Project\projectApiOshra\Servieces_Fw\obj\Debug\Servieces_Fw.csproj.CoreCompileInputs.cache
+I:\Tichnut\students\322639899\12_02_Project\projectApiOshra\Servieces_Fw\obj\Debug\Servieces_Fw.csproj.CopyComplete
+I:\Tichnut\students\322639899\12_02_Project\projectApiOshra\Servieces_Fw\obj\Debug\Servieces_Fw.exe
+I:\Tichnut\students\322639899\12_02_Project\projectApiOshra\Servieces_Fw\obj\Debug\Servieces_Fw.pdb
